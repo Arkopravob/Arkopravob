@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">FULLSTACK WEB DEVELOPER 👋</h1>
+<h1 align="center">Full Stack Web Developer 👋</h1>
 
 ###
 <div align="center">
