@@ -27,7 +27,7 @@
 ###
 
 <p align="left">I'm Arkopravo Bhuin <br>
-<br>- 🔭 I’m working as a Fullstack Web Development trainee <br>- 
+<br>- 🔭 I’m working as a Fullstack Web Development trainee @ Coding Ninjas <br>- 
 📚Passionate full-stack developer specializing in MERN stack (MongoDB, Express.js, React.js, Node.js), proficient in TypeScript, JavaScript, Java, and Cloud technologies (AWS, Firebase).<br>
 🌐Adept at designing responsive, scalable web applications with modern frameworks (React.js, Express.js) and RESTful APIs. 💻 Experienced in data structures, algorithms, and object-oriented programming.<br>
 -📚 Continuous learner, adept in Git, agile methodologies, and DevOps practices. 🤝 Excellent communicator and collaborative team player. 🔍 Explore my repositories for innovative projects leveraging cutting-edge technologies like OpenAI API integration.</p>
