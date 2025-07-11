@@ -18,6 +18,11 @@ I'm currently open to exciting entry-level opportunities and internships in **We
 - 🔧 **Tools:** Git, GitHub, Postman, Google Cloud Platform (GCP)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkopravob&layout=compact)
+![Arkopravo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkopravob&show_icons=true&theme=react)
+![Profile views](https://komarev.com/ghpvc/?username=arkopravob&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/arkopravob?label=Follow&style=social)
+
 
 ## 📌 Projects
 
@@ -69,6 +74,9 @@ I'm currently open to exciting entry-level opportunities and internships in **We
 - 💼 Land my first role as a Full Stack or AI/ML developer
 
 ---
+
+
+
 
 ## ⭐ Let's Build Together
 
